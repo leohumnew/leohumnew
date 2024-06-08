@@ -14,4 +14,4 @@
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -20; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.2; background: url('https://github.com/leohumnew/leohumnew/assets/39741041/b28587b1-5085-4f88-ab82-b8dbed38f873'); background-repeat: repeat-x;]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -20; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.2; background: url('https://github.com/leohumnew/leohumnew/assets/39741041/b28587b1-5085-4f88-ab82-b8dbed38f873'); background-repeat: repeat-x;]{x0000}$}
